@@ -1,3 +1,1 @@
-<image>
-  pleasant_trees.jpg
-</image>
+![Screenshot](pleasant_tree.jpg)
